@@ -90,8 +90,8 @@ We welcome contributions to improve BestMatch. Follow these steps:
 
 ## 📬 **Contact Us**
 Have questions or suggestions? Feel free to reach out:
-- 📧 Email: YashChaudhary016210@gmail.com
-- 🌐 Website: [BestMatch](https://bestmatch.surge.sh)
+- 📧 Email: YashChaudhary06111983@gmail.com
+- 🌐 Website: [BestMatch](https://bestmatch.vercel.app/)
 
 ---
 
